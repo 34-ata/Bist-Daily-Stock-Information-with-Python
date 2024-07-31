@@ -1,6 +1,6 @@
 # How To Use?
 ---
-# Without Argument
+## Without Argument
 <img width="934" alt="Ekran Resmi 2024-07-31 ÖS 1 37 54" src="https://github.com/user-attachments/assets/8381435c-488e-4ea2-9d83-f3db968e370b">
 
 ___
